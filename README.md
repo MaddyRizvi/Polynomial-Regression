@@ -1,7 +1,9 @@
 # Polynomial Regression
 
 ## Overview
-This repository compares **Linear Regression** and **Polynomial Regression** to predict salaries based on position levels. The goal is to demonstrate why **Polynomial Regression** provides a better fit for non-linear data compared to **Linear Regression**.
+This repository compares **Linear Regression** and **Polynomial Regression** to predict salaries based on position levels. The goal is to demonstrate why **Polynomial Regression** provides a better fit for non-linear data compared to **Linear Regression**. 
+
+Note: This project can be used for any Dataset containing other number of independent variables.
 
 ## Dataset
 The dataset used in this project is `Position_Salaries.csv` and contains the following columns:
