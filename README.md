@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Polynomial-Regression.git
+git clone https://github.com/MaddyRizvi/Polynomial-Regression.git
 cd Polynomial-Regression
 ```
 ## Run the Python script to perform both Linear Regression and Polynomial Regression and visualize the results:
